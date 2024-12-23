@@ -1,3 +1,3 @@
 # Padel Pals
 
-Work in progress tool to manage you Padel pals
+Work in progress tool to manage your Padel pals
